@@ -1,0 +1,472 @@
+body[class*=context-product] #middle #content .wd-browsing-breadcrumbs {
+    max-width: 1180px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.wd-brand-carousel ul, .wd-browsing-breadcrumbs {
+    position: relative;
+    overflow: hidden;
+}
+.wd-browsing-breadcrumbs {
+    position: relative;
+    overflow: hidden;}
+    body {
+        background-image: url(../img/fundao.jpg);
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+    }
+    
+    ul {
+        padding: 0px!important;
+    }
+    
+    .menu-principal {
+        width: 100%;
+        background-color: rgb(245, 192, 200);
+        height: 60px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .main,
+    .content {
+        margin: 0 auto;
+        width: -webkit-fill-available;
+               position: relative;
+    }
+    
+    .logo {
+        float: right;
+        padding: 16px;
+        width: 70%;
+    }
+    
+    .redes-sociais ul li {
+        margin-left: 30px;
+        display: inline-block;
+        float: left;
+        list-style: none;
+        height: 40px;
+    }
+    
+    .redes-sociais {
+        width: 20%;
+        float: right;
+    }
+    
+    .header-2 {
+        background-color: deeppink;
+        width: 900%;
+        margin: 0 auto;
+        padding: 10px;
+    }
+    
+    .menu-urls col-md-col-xs-col-lg-div {
+        height: 80px;
+        border-bottom: 3px solid deeppink;
+    }
+    
+    .menu ul li {
+        font-weight: 800;
+        display: inline-block;
+        color: #e9576d;
+        margin-left: 15px;
+        height: 57px;
+    }
+    
+    .menu ul li a {
+        color: #ffb6c1;
+        text-decoration: none;
+        font-size: 18px;
+        text-transform: uppercase;
+    }
+    
+    .menu ul li a:hover {
+        color: mediumvioletred;
+    }
+    
+    .menu ul li:hover {
+        border-bottom: 4px solid mediumvioletred;
+    }
+    
+    .menu {
+        width: 70%;
+        float: left;
+    }
+    
+    .busca {
+        width: 36%;
+        float: right;
+        text-align: center;
+    }
+    
+    .busca input {
+        background-image: url('../img/vetor\ pesquisa.png');
+        background-repeat: no-repeat;
+        background-position: 96%;
+        width: 200px;
+        padding: 12px;
+        height: 20px;
+        float: right;
+        margin-top: 2%;
+        border: 3px solid #ffb3d3;
+    }
+    
+    .col-100 {
+        width: 100%;
+        float: left;
+        position: relative;
+    }
+    
+
+
+    
+    .slick-initialized {
+        overflow: hidden;
+    }
+    
+    .texto-destaque h1 {
+        text-transform: uppercase;
+        font-size: 30px;
+        text-align: center;
+        color: #ab619f;
+
+        font-size: 400%;
+    }
+    
+    .texto-destaque {
+        font-weight: 900;
+    }
+    
+    .texto-destaque p {
+        font-weight: 800;
+        font-size: x-large;
+        color: #db7685;
+    }
+    
+    .col-3 {
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 33, 33%;
+        float: left;
+        position: relative;
+    }
+    
+    .bloco-texto col-md-col-xs-col-lg-div {
+        margin-top: 3cm;
+        align: center;
+    }
+    
+    h3 {
+        font-weight: normal!important;
+    }
+    
+    h1 {
+        text-align: center;
+        font-weight: 500;
+        font-style: initial;
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(231, 111, 211);
+    }
+ 
+    .bloco-imagens-texto {
+        background: transparent;
+        background-color: floralwhite;
+    }
+    
+    .bloco-imagem img {
+        margin: 0 auto;
+        width: 100px;
+        height: auto;
+    }
+    
+    .bloco-imagem {
+        height: 300px;
+        border: 1px solid rgb(0, 0, 0);
+        padding-top: 15px;
+        padding-bottom: 15px;
+        margin-left: 10px;
+    }
+    
+    .bloco-imagem rb {
+        text-align: left;
+    }
+    
+    li.carousel-item {
+        padding-left: 18px;
+        padding-right: 18px;
+        border: 0px;
+        width: 33, 33%, ;
+        float: left;
+        font-style: initial;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .group-thumbnail {
+        display: inline;
+        font-size: initial;
+        font-weight: 500;
+        position: relative;
+        color: lightcoral;
+    }
+    
+    .tag-shipping {
+        color: lightcoral;
+        font-weight: 900;
+    }
+    
+    .p {
+        font-weight: 800;
+        color: rgb(180, 104, 104);
+        font-size: x-large;
+    }
+    
+    .slide-produto {
+        width: 100%;
+    }
+    
+    .slick-slide {
+        font-size: 0px;
+        border: 0px;
+    }
+    
+    .button {
+        font-size: none;
+    }
+    
+    ul.slick-dots {
+        font-size: 0px;
+        border: 0px;
+    }
+    .col-5{
+width: 25%;
+float: left;
+text-align: center;
+ line-height: 3em;
+    }
+    .col-5 img{
+margin: 0 auto;
+
+    }
+
+.texto-produto { box-sizing: border-box;
+
+    position: relative;
+    display: inline block;
+    padding: 15px  30px;
+   color:  #f321e2;;
+   text-transform:uppercase;
+   letter-spacing: 4px;
+   text-decoration: none;
+   font-size: 24px;
+   overflow: hidden;
+   transition: 0.2s;
+
+}
+
+
+
+
+
+.slick-slider
+{ left: 292px;
+ 
+    height: 299px;
+    width: 289px;
+    
+    position: relative;
+
+    display: block;
+    box-sizing: border-box;
+
+    -webkit-user-select: auto;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+    position: relative;
+
+    display: block;
+    overflow: hidden;
+
+    margin: 0;
+    padding: 0;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+    -webkit-transform: translate3d(0, 0, 0);
+       -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+         -o-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+    position: relative;
+    top: 0;
+    left: 0;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.slick-track:before,
+.slick-track:after
+{
+    display:inline-block;
+    content: '';
+}
+.slick-track:after
+{
+    clear: both;
+}
+.slick-loading .slick-track
+{
+    visibility: hidden;
+}
+
+.slick-slide
+{
+    display: none;
+    float: left;
+    height: 74%;
+    min-height: auto;
+}
+[dir='rtl'] .slick-slide
+{
+    float: right;
+}
+.slick-slide img
+{
+    display: block;
+}
+.slick-slide.slick-loading img
+{
+    display: none;
+}
+.slick-slide.dragging img
+{
+    pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+    display: revert;
+}
+.slick-loading .slick-slide
+{
+    visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+    display: block;
+
+    height: auto;
+
+    border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+    display: none;
+
+}
+
+button.slick-prev {
+    font-size: 0px;
+    border: 0px;
+    width: 25px;
+    height: 51px;
+    background-color: transparent;
+    background-image: url(../img/anterior.png);
+    top: 10%;
+    z-index: 9;}
+
+    button.slick-next {
+        font-size: 0px;
+        border: 0px;
+        width: 23px;
+        height: 45px;
+        background-color: transparent;
+        background-image: url(../img/proximo.png);
+        top: 50%;
+        z-index: 9;
+        right: 14%;}
+
+
+.product .product__info {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.myButton {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #f00cce 5%, #b35191 100%);
+	background-color:#f00cce;
+	border-radius:10px;
+	border:1px solid #d41e8b;
+	display:inline-block;
+	cursor:pointer;
+	color:#ff82ff;
+	font-family:Arial;
+    font-size:20px;
+    top: 222px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #662953;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #b35191 5%, #f00cce 100%);
+	background-color:#b35191;
+}
+.myButton:active { left: 22px;
+	position:relative;
+	top:1px;
+}
+
+
+
+/*------------------------------- CESTA-------------------------*/
+
+
+
+.footer{
+    background-color: #1F1F1F;
+    padding: 1rem;
+}
+.footer .container img{
+    height:1.7rem;
+}
+.footer .container p{
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    text-align: center;
+    color: #f7f7f7;
+}
+.footer .container a{
+    float: right;
+}
+ 
+
